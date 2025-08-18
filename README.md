@@ -1,34 +1,27 @@
-👋 Hi, I'm Shameek Vats
+# 👋 Hi, I'm Shameek Vats  
 
-🎓 Materials Engineer by training | 💻 Student at 42 Luxembourg (Piscine graduate)
-🚀 Passionate about blending design, engineering, and code to build creative solutions.
+🎓 **Materials Engineer** | 💻 **Student at 42 Luxembourg** (Piscine graduate)  
+I enjoy bridging design, engineering, and code to create practical and innovative solutions.  
 
-🔧 What I Do
+---
 
-3D Printing & Modeling – Designing in Onshape & bringing ideas to life with 3D printing
+## 🔧 Skills & Interests  
+- **3D Printing & Modeling** → Designing in Onshape, turning ideas into real prototypes  
+- **Web Development** → Building responsive and modern websites  
+- **Embedded & IoT** → Exploring Raspberry Pi & Microbit for interactive projects  
+- **Python & Data** → Automating workflows and enabling data-driven insights  
 
-Web Development – Building modern, responsive, and user-friendly websites
+---
 
-Embedded & IoT – Experimenting with Raspberry Pi & Microbit to create interactive projects
+## 🌱 Current Focus  
+- Designing 3D models ready for fabrication  
+- Developing engaging web solutions  
+- Experimenting with embedded systems and IoT  
 
-Python & Data – Automating workflows and supporting projects with data-driven insights
+---
 
-🌱 Currently Exploring
-
-Innovative 3D designs ready for digital fabrication
-
-Web solutions that merge aesthetics & functionality
-
-Embedded & IoT projects that connect the physical and digital worlds
-
-🤝 Let’s Connect
-
-I’m always open to collaborating on:
-
-3D printing & digital fabrication
-
-Onshape modeling
-
-Web development & design
-
-IoT and automation projects
+## 🤝 Open to Collaborations  
+I’d love to connect with makers, developers, and designers working on:  
+- Digital fabrication & 3D modeling  
+- Web development & design  
+- IoT and automation projects  
